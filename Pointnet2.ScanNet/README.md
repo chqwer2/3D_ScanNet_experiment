@@ -1,4 +1,8 @@
 # Pointnet2.ScanNet
+
+https://github.com/daveredrum/Pointnet2.ScanNet
+
+
 PointNet++ Semantic Segmentation on ScanNet in PyTorch with CUDA acceleration based on the original [PointNet++ repo](https://github.com/charlesq34/pointnet2) and [the PyTorch implementation with CUDA](https://github.com/sshaoshuai/Pointnet2.PyTorch)
 
 ## Performance

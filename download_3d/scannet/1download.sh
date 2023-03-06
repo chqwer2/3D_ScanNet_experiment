@@ -2,7 +2,7 @@
 # Step 1
 #git clone https://github.com/ScanNet/ScanNet.git
 
-output_path='/bask/projects/j/jiaoj-3d-vision/Hao/3D/3Ddata'
+output_path='../3Ddata'
 
 # Step 2
 # from point nerf

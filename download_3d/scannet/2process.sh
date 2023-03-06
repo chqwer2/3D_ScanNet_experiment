@@ -2,7 +2,7 @@
 source ~/.bashrc
 conda activate nex
 
-output_path='/bask/projects/j/jiaoj-3d-vision/Hao/3D/3Ddata'
+output_path='../3Ddata'
 
 # Step 3
 # from point nerf
